@@ -9,7 +9,7 @@ The objective is to estimate the latent maximum monthly beverage purchase potent
 The solution follows a Lakehouse-style architecture consisting of:
 - Bronze Layer (Raw Data)
 - Silver Layer (Cleaned Data)
-- Gold Layer (Feature Engineered Data)
+- Gold Layer (Featured Engineered Data)
 
 The framework includes:
 - Data cleaning and validation
